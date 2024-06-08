@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1716508293 source:c:\users\yo\desktop\6\lab i(2)\gran_cerdo\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<signal.h>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<windows.h>
+	<clocale>
+	"Funciones_Generales.h"
+	"Creditos_y_Estadisticas.h"
+	"Hitos_y_Condiciones.h"
+	"Ronda.h"
+	"Orden_de_juego.h"
+	"Jugar.h"
+	"Salir.h"
+
+1716469232 c:\users\yo\desktop\6\lab i(2)\gran_cerdo\salir.h
+
+1716497649 c:\users\yo\desktop\6\lab i(2)\gran_cerdo\funciones_generales.h
+
+1716649762 c:\users\yo\desktop\6\lab i(2)\gran_cerdo\jugar.h
+
+1716504083 c:\users\yo\desktop\6\lab i(2)\gran_cerdo\creditos.h
+
+1716649762 c:\users\yo\desktop\6\lab i(2)\gran_cerdo\orden_de_juego.h
+
+1716642755 c:\users\yo\desktop\6\lab i(2)\gran_cerdo\ronda.h
+
+1716643676 c:\users\yo\desktop\6\lab i(2)\gran_cerdo\hitos_y_condiciones.h
+
+1716644690 c:\users\yo\desktop\6\lab i(2)\gran_cerdo\creditos_y_estadisticas.h
+
+1717607081 source:c:\users\sonva\onedrive\escritorio\gran_cerdo\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<clocale>
+	"Funciones_Generales.h"
+	"Creditos_y_Estadisticas.h"
+	"Hitos_y_Condiciones.h"
+	"Ronda.h"
+	"Orden_de_juego.h"
+	"Jugar.h"
+	"Salir.h"
+	"rlutil.h"
+
+1717368760 c:\users\sonva\onedrive\escritorio\gran_cerdo\funciones_generales.h
+
+1717609339 c:\users\sonva\onedrive\escritorio\gran_cerdo\creditos_y_estadisticas.h
+
+1717607264 c:\users\sonva\onedrive\escritorio\gran_cerdo\hitos_y_condiciones.h
+	"rlutil.h"
+
+1717601495 c:\users\sonva\onedrive\escritorio\gran_cerdo\ronda.h
+	"rlutil.h"
+
+1717607333 c:\users\sonva\onedrive\escritorio\gran_cerdo\orden_de_juego.h
+	"rlutil.h"
+
+1717609339 c:\users\sonva\onedrive\escritorio\gran_cerdo\jugar.h
+	"rlutil.h"
+
+1716903385 c:\users\sonva\onedrive\escritorio\gran_cerdo\salir.h
+
+1571584339 c:\users\sonva\onedrive\escritorio\gran_cerdo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1717376063 source:c:\users\yo\desktop\gran_cerdo\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<signal.h>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<clocale>
+	"Funciones_Generales.h"
+	"Creditos_y_Estadisticas.h"
+	"Hitos_y_Condiciones.h"
+	"Ronda.h"
+	"Orden_de_juego.h"
+	"Jugar.h"
+	"Salir.h"
+	"rlutil.h"
+
+1717368760 c:\users\yo\desktop\gran_cerdo\funciones_generales.h
+
+1717370027 c:\users\yo\desktop\gran_cerdo\creditos_y_estadisticas.h
+
+1717602032 c:\users\yo\desktop\gran_cerdo\hitos_y_condiciones.h
+	"rlutil.h"
+
+1571584339 c:\users\yo\desktop\gran_cerdo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1717601495 c:\users\yo\desktop\gran_cerdo\ronda.h
+	"rlutil.h"
+
+1717369489 c:\users\yo\desktop\gran_cerdo\orden_de_juego.h
+	"rlutil.h"
+
+1717601495 c:\users\yo\desktop\gran_cerdo\jugar.h
+	"rlutil.h"
+
+1716903385 c:\users\yo\desktop\gran_cerdo\salir.h
+
